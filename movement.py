@@ -1,6 +1,6 @@
 import sys
 sys.path.append('./')
-from sprites_final import *
+from sprites import *
 
 import random
 
