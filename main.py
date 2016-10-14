@@ -1,6 +1,6 @@
 import sys
 sys.path.append('./')
-from world_final import *
+from world import *
 
 def main():
     v_draw_distance = 16
