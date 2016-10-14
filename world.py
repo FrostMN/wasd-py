@@ -1,6 +1,6 @@
 import sys
 sys.path.append('./')
-from movement_final import *
+from movement import *
 
 def make_world(size):
     sizes = { 'small' : 60,
